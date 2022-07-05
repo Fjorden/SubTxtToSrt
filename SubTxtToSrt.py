@@ -1,8 +1,15 @@
 from cgitb import text
+import argparse
 import re
 import time
 
-with open('Tai chi zero.txt', 'r', encoding="utf8") as file:
+parser = argparse.ArgumentParser()
+parser.add_argument("infile", help="Path to file we are converting")
+parser.add_argument("outfile", help="Output file name")
+args = parser.parse_args()
+
+
+with open(args.infile, 'r', encoding="utf8") as file:
     txt = file.read()
 
 txt = txt.splitlines()
@@ -29,5 +36,5 @@ ready_srt = ''.join(srt)
 
 
 
-with open('Tai chi zero.srt', 'w', encoding='utf8') as file:
+with open(args.outfile, 'w', encoding='utf8') as file:
     file.write(ready_srt)
