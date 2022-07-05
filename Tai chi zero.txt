@@ -1,0 +1,972 @@
+{1}{1}23.976
+{1370}{1465}www.NapiProjekt.pl - nowa jakość napisów.|Napisy zostały specjalnie dopasowane do Twojej wersji filmu.
+{1467}{1510}Oglądaj legalnie, polecaj i zarabiaj – Vodeon.pl
+{1514}{1582}{y:b}W połowie czasu panowania dynastii Qing,
+{1584}{1637}{y:b}dobrobyt Chin zaczął słabnąć.
+{1639}{1690}{Y:b}Powodem zewnętrznym|było wkroczeniem zachodu,
+{1692}{1785}{Y:b}a wewnętrznym, chaos|wywołany przez Kult Boskiej Prawdy.
+{1788}{1869}Przodkowie błogosławcie nam|i chrońcie naszych żołnierzy!
+{1872}{1903}Bracia!
+{1905}{1989}Pokonajcie wroga i zdobądźcie stolicę!
+{1992}{2095}Będziemy mieć więcej ryżu,|niż możemy zjeść!
+{2109}{2154}Zabić!
+{2179}{2242}Do ataku!
+{2445}{2515}{Y:b}Setki tysięcy żołnierzy|Boskiej Prawdy przetoczyły się
+{2517}{2596}{Y:b}przez Pekin i Zhili do Shandong.|Byli nie do zatrzymania.
+{2613}{2692}{Y:b}Wśród Boskich żołnierzy|był szaleniec,
+{2697}{2817}{Y:b}który zostanie później|wielkim mistrzem kung fu.
+{2984}{3023}Lu Chan!
+{3025}{3104}Zakończmy tę bitwę i chodźmy jeść!
+{3181}{3243}{y:b}Jayden Yuan jako "Szaleniec"
+{3246}{3302}{Y:b}Mistrz olimpijski|kung fu z 2008 roku
+{3962}{4037}Wróg wysłał konnicę.
+{4051}{4070}Nan.
+{4073}{4111}To pora na Lu Chana.
+{4113}{4137}Czy to będzie dobre?
+{4140}{4176}Rób, co mówię.
+{4188}{4232}Tak jest.
+{4236}{4258}Lu Chan!
+{4389}{4420}Wybacz.
+{4754}{4857}{Y:b}18 lat wcześniej|Prowincja Guangping Hebei
+{4902}{4967}{y:b}Urodził się "Szaleniec"
+{5041}{5122}{y:b}Shu Qi jako matka "Szaleńca"
+{5214}{5276}{Y:b}Nazwano go Yang Lu Chan.|Powiedzmy, że urodził się inny.
+{5279}{5312}{Y:b}Na jego głowie|była jakaś narośl.
+{5511}{5589}{Y:b}Matka kochała go wierząc,|że syn jest skazany na sukces.
+{5629}{5679}{Y:i}Czyż nasz syn|nie jest cudowny?
+{5682}{5787}{Y:b}Andrew Lau jako ojciec Lu Chana|Reżyser "Infernal Affairs"
+{5797}{5855}{y:i}Spójrz proszę.
+{6020}{6059}{y:i}Czemu musisz wszystko jeść?
+{6113}{6162}{y:i}Ponieważ, ciągle jestem głodny.
+{6189}{6232}{Y:b}Matka Lu Chana dzięki|swej mądrości wiedziała,
+{6234}{6292}{Y:b}że mężczyźni są z natury źli,|więc polegała na sobie.
+{6314}{6365}{y:b}REJESTR
+{6367}{6428}{Y:b}Musiała zaopiekować się|sobą i Lu Chanem.
+{6513}{6562}{y:b}ZIMA
+{6581}{6636}{y:b}Podziwiajcie nasz pokaz!
+{6641}{6677}{y:b}Fung Hak-On jako Stary Zhao.
+{6679}{6733}{Y:b}Członek-założyciel|ekipy kaskaderów Jackie Chana.
+{7091}{7127}{y:i}Co jest?
+{7130}{7182}{y:i}Twoje? Odpowie,|jak na niego zawołasz?
+{7185}{7220}{y:i}Cukierku!
+{7362}{7412}{y:b}Ma róg na głowie!
+{7710}{7822}{y:i}Mistrzu czemu wszyscy odchodzą?
+{8316}{8371}{y:i}Mistrzu! On zna|wszystkie twoje ruchy!
+{8530}{8592}{y:i}Niezła siła!
+{8842}{8911}{Y:b}W międzyczasie matkę Lu Chana|złapano na kradzieży.
+{8913}{8976}{Y:i}Ile pieniędzy skradłaś|przez te wszystkie lata?
+{8981}{9029}{Y:i}Muszę myśleć|o przyszłości Lu Chana.
+{9115}{9172}{y:i}Pobić ją na śmierć!
+{9175}{9220}{y:i}Kto śmie?
+{9319}{9399}{Y:b}Jestem twoją żoną.|Nie możesz mnie bić.
+{9763}{9811}{Y:b}Mistrzu czemu idziemy|za tym dzieciakiem?
+{9814}{9876}{Y:b}Nie lekceważ go!|To dziecko ma wielki potencjał!
+{10056}{10112}{y:i}Mamo!
+{10250}{10316}{Y:i}Obawiam się, że nie mogę|się już tobą opiekować.
+{10322}{10403}{Y:i}Jestem Zhao Kan Ping. Widzę ogromny|potencjał w twoim synu.
+{10445}{10484}{Y:b}Nazywają to|"Trzema Kwiatami na Koronie".
+{10486}{10544}{Y:b}Wielu mistrzów nie osiąga|tego nawet po latach praktyk,
+{10546}{10582}{y:b}ale twój syn się z tym urodził.
+{10584}{10628}{y:b}Nie ma ograniczeń co do jego możliwości.
+{10638}{10730}{Y:i}Proszę! Niech pani|powierzy mi swego syna.
+{10761}{10803}{y:i}Uklęknij!
+{10842}{10955}{Y:b}Jesteś jedynym poza mną, który|zauważył w nim potencjał.
+{11003}{11098}{Y:b}Musisz zrobić w życiu dobrze|tą jedną rzecz.
+{11125}{11201}{y:i}Mama pójdzie teraz spać.
+{12115}{12154}{y:b}10 lat później
+{12156}{12220}{Y:b}Czy Lu Chan|zostanie Bożym Żołnierzem?
+{12307}{12373}{Y:b}Pewnie Stary Zhao jest|mistrzem Kultu Boskiej Prawdy
+{12375}{12459}{Y:b}rekrutującym nowych żołnierzy|w przebraniu grajka.
+{12468}{12502}Lu Chan!
+{12573}{12599}Duży bracie Nan!
+{12604}{12630}Wybacz.
+{13571}{13619}{y:i}Co do diabła?
+{13698}{13741}Z drogi!
+{13743}{13796}Z drogi!
+{13856}{13880}Z drogi!
+{14132}{14163}Z drogi.
+{14328}{14347}Mistrzu Dong!
+{14350}{14422}Skarb kultu Boskiej Prawdy|jest w twoich rękach.
+{14434}{14506}{Y:b}Leung Siu-lung jako Mistrz Dong. |Supergwiazda lat 70-tych.
+{14508}{14568}Głupcze! Znów ryzykowałeś życiem.
+{14594}{14626}Jak się pan ma?
+{14628}{14665}Przepraszam, że znowu kłopoczę.
+{14925}{14956}Głupcze.
+{14966}{15043}- Wolisz żyć czy umrzeć?|- Co?
+{15067}{15117}Jeśli wolisz umrzeć,|to nie przeszkadzam.
+{15119}{15170}Lecz, jeśli chcesz żyć,
+{15172}{15210}musisz mnie słuchać.
+{15218}{15321}Nikomu nie pozwól dotknąć|"Trzech Kwiatów na Koronie".
+{15323}{15386}Nie trenuj też kung fu,
+{15388}{15481}ponieważ inaczej twoje życie|będzie w niebezpieczeństwie.
+{15493}{15533}Co masz na myśli?
+{15541}{15599}Twego mistrza obchodzi tylko|twój udział w jego bitwach.
+{15601}{15666}Nie przejmuje się|waszymi żywotami.
+{15673}{15726}Jeśli będziesz tak dalej robił,
+{15728}{15782}umrzesz zanim się spostrzeżesz.
+{15791}{15863}Nieprawda! Mistrz mówił,|że z każdą walką jestem lepszy.
+{15865}{15911}Styl walki,|którego cię nauczono,
+{15913}{15945}opiera się na brutalności
+{15947}{15997}To wszystko wyczerpuje|twoją wewnętrzną energię
+{15999}{16048}i skraca ci życie.
+{16059}{16095}Spójrz na swój róg.
+{16098}{16141}Z czerwonego stał się fioletowy.
+{16143}{16212}Kiedy zrobi się czarny,|będziesz martwy.
+{16242}{16318}Twoim jedynym ratunkiem,|jest nauka stylu wewnętrznego,
+{16321}{16366}by w pełni wykorzystać|twe kanały energetyczne.
+{16369}{16424}To jedyny sposób byś uciekł|od wczesnej śmierci.
+{16426}{16488}Wewnętrzne sztuki walki?|Gdzie mogę się tego nauczyć?
+{16491}{16523}We wiosce Chen.
+{16558}{16640}Wylecz go,|zamiast mówić mu o stylu Chen!
+{16642}{16695}Jeszcze się nie poddałeś?
+{16697}{16728}Mistrzu.
+{16731}{16771}Jestem lekarzem.
+{16774}{16875}Nie mogę pozwolić ludziom|umierać nie znając powodu.
+{16877}{16917}Straciłeś palce, próbując|ukraść styl Chen.
+{16919}{16956}Chcesz by inni|wzięli z ciebie przykład?
+{16958}{17002}Nie słuchaj bzdur tego starca!
+{17004}{17052}Ćwicz kung fu,|którego cię nauczyłem.
+{17054}{17078}Nie pij tego!
+{17133}{17169}Co się dzieje?
+{17172}{17260}Wypij lekarstwo, póki gorące.|Patrz, jak gnoję twój styl!
+{17623}{17642}Ty!
+{17644}{17685}Złodzieju kung fu!
+{18047}{18109}To prawda,|że skradłem ich kung fu.
+{18112}{18158}Ukradłem tylko te trzy ruchy,
+{18164}{18225}które wystarczą, by cię pokonać.
+{18565}{18598}{y:i}Spójrz na swój róg.
+{18601}{18639}{y:i}Z czerwonego stał się fioletowy.
+{18642}{18677}{y:i}Kiedy zrobi się czarny
+{18680}{18720}{y:i}będziesz martwy.
+{18819}{18897}{Y:i}Twoim jedynym ratunkiem,|jest nauka stylu wewnętrznego,
+{18899}{18946}{Y:i}by w pełni wykorzystać|twe kanały energetyczne.
+{18948}{19003}{Y:i}To jedyny sposób byś uciekł|od wczesnej śmierci.
+{19165}{19201}{y:i}Wojska cesarskie atakują!
+{19204}{19244}{Y:i}Wstawajcie!|Wojska cesarskie atakują!
+{19247}{19276}{y:i}Na pomoc!
+{19316}{19348}{y:i}Pali się!
+{19556}{19584}Mistrzu Dong!
+{19674}{19701}Mistrzu Dong!
+{19731}{19761}Lu Chan.
+{19769}{19832}Szybko, udaj się do wioski Chen!
+{19856}{19961}Błagaj mistrza Chen Chang Xing,|by nauczył cię kung fu.
+{19964}{20059}Inaczej umrzesz.
+{20110}{20136}Mistrzu Dong!
+{20139}{20167}Mistrzu Dong!
+{20345}{20375}Mistrzu!
+{20472}{20500}Mistrzu!
+{20517}{20544}Mistrzu!
+{20546}{20575}Lu Chan!
+{20592}{20613}Nasz mistrz nie żyje.
+{20616}{20633}Bracie Nan!
+{20635}{20671}Idź!
+{20673}{20709}Uciekaj!
+{21488}{21523}scenariusz
+{21878}{21923}zdjęcia
+{22316}{22338}mMuzyka
+{22642}{22667}{y:i}Kim jesteś?
+{22671}{22696}{y:i}Gdzie idziesz?
+{22822}{22856}Jestem Yang Lu Chan.
+{22858}{22893}Szukam wioski Chen.
+{22896}{22945}Musisz wspiąć się na tamtą górę.
+{22965}{23001}Którą?
+{23004}{23058}Tamtą!
+{23662}{23698}reżyseria
+{24348}{24446}{y:b}TAI CHI ZERO
+{24458}{24558}Tekst polski:|{y:b}Mr. J0jk0 & Lukarson
+{24649}{24685}{y:b}WIOSKA CHEN
+{24881}{24929}Mogłabyś skierować mnie|do mistrza Chena?
+{24931}{24979}- Przybyłeś nauczyć się kung fu?|- Tak.
+{24982}{25068}Styl Chen nie jest dla obcych.|Powinieneś odejść.
+{25070}{25114}Proszę pana.|Gdzie nauczę się stylu Chen?
+{25116}{25163}Styl Chen nie jest dla obcych.
+{25301}{25382}- Mogę zapytać...|- Styl Chen nie jest dla obcych!
+{25385}{25406}Wygrałam.
+{25409}{25467}Czemu nie pozwalają|ludziom się uczyć?
+{25550}{25586}Z drogi!
+{25663}{25695}Co jest?
+{25715}{25743}Tędy!
+{25989}{26022}Rany!
+{26133}{26158}Nic ci nie jest?
+{26288}{26317}Jesteś ranny?
+{26320}{26364}{y:b}Angelababy jako Chen Yu Niang.
+{26581}{26611}Yu Niang!
+{26651}{26675}Co z nim?
+{26715}{26782}{Y:b}Eddie Peng Yu-Yen|jako Fang Zi Jing.
+{26785}{26826}{y:i}Jak jest cały, to chodźmy.
+{26862}{26888}Jestem Chen Yu Niang.
+{26890}{26929}Wszyscy we wiosce mnie znają.
+{26931}{26985}Jeśli się źle poczujesz|odwiedź mnie.
+{27070}{27092}Yu Niang.
+{27116}{27172}Wielki Mistrz już wrócił?|Moja matka jest chora.
+{27176}{27228}Jeszcze nie wrócił.|Wróci, kiedy zechce.
+{27231}{27279}Proszę, pozdrów mistrza Chena.
+{27281}{27303}Oczywiście.
+{27339}{27366}Którego mistrza Chena?
+{27411}{27439}Tu jest tylko jeden mistrz.
+{27442}{27479}Mistrz Chen Chang Xing.
+{27936}{28013}{Y:b}KAMIENNY MOST,|BRAMA, HERBACIARNIA
+{28203}{28287}{y:b}TARG, STOISKO Z WARZYWAMI
+{28289}{28333}{y:b}MASZT
+{28366}{28441}{y:b}APTEKA, POCZTA
+{28622}{28692}{y:b}WIETRZNE GÓRY
+{28694}{28789}{y:b}AULA PRZODKÓW CHEN
+{28944}{29049}{y:b}BOCZNY ANEKS
+{29313}{29342}Dasz radę?
+{29344}{29382}To na pewno się zapali?
+{29397}{29428}Nie gadaj głupot.
+{29430}{29457}Sam spróbuj.
+{29459}{29527}{Y:b}Chen Si Cheng|jako drugi syn Chena.
+{29567}{29610}Ten Fang Zi Jing|to naprawdę ktoś.
+{29613}{29704}Studiował za granicą|tylko kilka lat i nagle stał się
+{29706}{29780}głównym inżynierem|budownictwa kolejowego Zhi Li.
+{29783}{29821}Ten mięczak?
+{29833}{29874}Nigdy go nie lubiłem.
+{29876}{29938}Teraz ma zachodnie ubrania i samochód.
+{29940}{29992}Ojciec naprawdę pozwoli mu|ożenić się z naszą siostrą?
+{29994}{30035}Zostało to zaaranżowane|w ich dzieciństwie.
+{30037}{30062}Ona i tak go lubi.
+{30440}{30462}Świetnie!
+{30466}{30538}Jak siostrzyczka się dowie,|źle to zrozumie.
+{30667}{30691}Piąty bracie.
+{30694}{30726}Wcześnie przyszedłeś.
+{30766}{30808}O czym dziś dyskutujemy?
+{30826}{30854}Kto to wie?
+{30998}{31027}Nie przejmuj się.
+{31030}{31061}Wszystko będzie dobrze.
+{31135}{31172}Zaczęli układać tory.
+{31193}{31226}Nie będziesz musiał wyjeżdżać.
+{31372}{31420}Pociąg wyruszy z Zheng Zhou
+{31423}{31461}mijając miasto Huai Qing
+{31463}{31525}i zatrzyma się tutaj|w wiosce Chen.
+{31533}{31598}- Przybył Trzeci Wielki Wuj.|- Już wszyscy jesteście?
+{31600}{31627}Trzeci Wielki Wuju.
+{31643}{31679}Czemu jesteś tak ubrana?
+{31684}{31727}{Y:b}Stanley Fung Shui-Fan|jako Trzeci Wielki Wuj
+{31730}{31802}{Y:b}Czwarty wuj, Piąty wuj|Drugi szwagier, Starszy kuzyn
+{31924}{31989}- Gdzie twój ojciec?|- Kto to wie?
+{31991}{32045}Nie widziałam go|od czterech tygodni.
+{32101}{32130}Drodzy mieszkańcy!
+{32140}{32218}Dziękuję za spotkanie|w sprawie Kolei Zhi Li.
+{32221}{32267}Zi Jing wychował się|w naszej wiosce
+{32269}{32315}i jest wam wdzięczny|za opiekę.
+{32317}{32355}Teraz, gdy ukończył|zagraniczne studia
+{32358}{32427}i został głównym inżynierem|Kolei Zhi Li,
+{32430}{32495}przyniósł nam wszystkim zaszczyt.
+{32940}{33041}Czemu nosi na głowie spluwaczkę?
+{33079}{33111}Proszę o uwagę.
+{33113}{33159}To model kolei.
+{33161}{33216}Ten obiekt nazywa się pociągiem.
+{33219}{33262}Jest najważniejszą zachodnią technologią
+{33264}{33326}i nadzieją na przyszłość dynastii Qing.
+{33336}{33413}Pociąg wyruszy z Zheng Zhou|mijając miasto Huai Qing
+{33415}{33465}i zatrzyma się na stacji|we wiosce Chen
+{33467}{33509}rozładowując cukier|i zachodnią medycynę,
+{33511}{33580}a ładując nasze lokalne produkty.
+{33583}{33638}To w znacznym stopniu ułatwi transport.
+{33640}{33701}Powiedzmy, że chcecie|udać się z Chen, do Pekinu.
+{33703}{33741}Konno, to dwa dni drogi,
+{33744}{33796}ale pociągiem,
+{33799}{33828}w wygodach,
+{33830}{33894}podróż zajmie jeden dzień.
+{33914}{33955}{Y:b}Xiong Nai Jin|jako żona drugiego syna
+{33957}{33990}W wygodzie?
+{34010}{34072}Pomyślałeś, co się stanie|z mieszkańcami wzdłuż drogi,
+{34074}{34110}kiedy kolej dotrze|do naszej wioski?
+{34113}{34154}I co się stanie|z grobami naszych przodków?
+{34206}{34251}Odpowiem na to wkrótce.
+{34288}{34343}Pozwólcie, że pokażę coś,|czego nigdy nie widzieliście.
+{34345}{34381}Oto moc zachodniej technologii!
+{34710}{34823}Zapaliły się!
+{34825}{34909}Nazywa się to|światłem elektrycznym.
+{34914}{34991}To nasza nadzieja i przyszłość!
+{35271}{35310}Pali się!
+{35326}{35358}Nie wychodźcie!
+{35933}{35961}Rzeczy cudzoziemców!
+{35964}{36005}Nic dobrego z tego nie wyniknie.
+{36086}{36109}Nieźle.
+{36144}{36234}{Y:i}Ten mięczak jest|z pewnością nadzieją Chin.
+{37569}{37600}Źle się czujesz?
+{37622}{37662}Ani trochę.
+{37797}{37825}Nie chcę pieniędzy.
+{37900}{37945}Skoro nie jesteś chory|i nie chcesz pieniędzy,
+{37948}{37983}to czemu do mnie przyszedłeś?
+{38005}{38039}Szukam mistrza Chena.
+{38041}{38076}Chcę nauczyć się stylu Chen.
+{38094}{38150}Styl Chen nie jest dla obcych.
+{38154}{38189}Odkąd przybyłem do wioski
+{38207}{38247}wszyscy mi to mówią.
+{38274}{38311}Więc mówili ci?
+{38322}{38357}Co z ciebie za głupiec!
+{38401}{38420}Nie jestem głupi.
+{38422}{38470}Mama mi mówiła: nie daj się wykorzystywać ludziom.
+{38472}{38503}Nie dam się obrażać za darmo.
+{38505}{38550}Musisz mnie przedstawić|mistrzowi Chenowi.
+{38708}{38753}Naprawdę chcesz się nauczyć|stylu Chen?
+{38756}{38768}Tak.
+{38940}{38981}Idź tą drogą.
+{38983}{39034}Skręć w prawo koło|świętego drzewa siedem mil stąd.
+{39036}{39072}{Y:i}Skręć w lewo|przy skamieniałym lesie.
+{39074}{39111}{y:i}Dotrzesz do góry Wu-Liang.
+{39113}{39149}{y:i}Mistrz Chen jest za tą górą.
+{39151}{39203}Nadchodzę!
+{39250}{39276}{y:b}KAWA Z JAWY
+{39278}{39321}Wrze!
+{39324}{39361}Wrze!
+{39413}{39458}To kawa.
+{39472}{39526}Kawa jest z ziaren kawy.
+{39549}{39607}Zi Jing przywiózł ją|z Wielkiej Brytanii.
+{39609}{39712}Smakuje lepiej niż herbata!
+{39715}{39782}Jest bardziej gorzka|niż chińska medycyna!
+{39784}{39823}Nie wiesz, co mówisz.
+{39825}{39888}Im bardziej gorzka tym lepsza jakość.
+{39897}{39963}Tak należy ją pić!
+{40036}{40067}Co do licha?!
+{40089}{40122}Na górze jest klasztor.
+{40125}{40168}Nie było tam mistrza Chena.
+{40170}{40199}Szybki jesteś!
+{40201}{40242}Myślałam,|że zajmie ci to kilka dni.
+{40247}{40273}- Chodźmy.|- Tak, chodźmy.
+{40276}{40310}Gdzie jest mistrz Chen?
+{40312}{40367}Stój!
+{40369}{40412}Chcę się nauczyć kung fu!
+{40539}{40598}{Y:b}"Odwrócona Spirala|Uniesionych Dłoni"
+{40894}{40942}{y:b}"Postawa Gromadzenia Energii"
+{40945}{40984}Zabierz mnie do mistrza Chena.
+{41108}{41146}Tylko, jeśli uda ci się mnie ruszyć.
+{41232}{41285}Dość! Krew mu leci z nosa!
+{41287}{41341}Nie dotknęłam go.|On wciąż na mnie nastaje.
+{41367}{41379}Leć!
+{41479}{41491}O rany!
+{41580}{41618}Gdzie on przepadł?
+{41693}{41761}{y:b}TAJNA DZIUPLA
+{42002}{42029}Co do licha?
+{42040}{42071}Sir!
+{42083}{42136}Możesz mnie opuścić?
+{42184}{42229}Tamuję twój krwotok.
+{42239}{42280}Inaczej może nastąpić|zakrzep krwi w mózgu.
+{42282}{42354}Możesz od tego umrzeć.
+{42357}{42386}Sir...
+{42388}{42431}Jak chcesz.
+{42455}{42526}{Y:b}Tony Leung Ka Fai|jako Stary Robotnik
+{42563}{42599}Zna pan styl Chen?
+{42601}{42625}Nauczy mnie pan?
+{42628}{42696}Jestem robotnikiem,|który pracuje rękoma.
+{42712}{42772}Nie znam żadnego,|jak tam go zwiesz, stylu.
+{42827}{42852}W takim razie...
+{42858}{42912}z pewnością znasz|mistrza Chen Chang Xing?
+{42923}{42961}Chcę zostać jego uczniem.
+{42971}{43021}Ale jak tylko ludzie słyszą,
+{43023}{43066}że chcę się nauczyć kung fu,
+{43069}{43124}to mnie przeganiają albo biją!
+{43289}{43378}Chcesz nauczyć się kung fu,|żeby wyleczyć tę dolegliwość?
+{43572}{43599}Moja mama...
+{43630}{43659}Moja mama powiedziała,
+{43666}{43731}że muszę zrobić tylko tę|jedną rzecz dobrze w życiu.
+{43733}{43786}Chciała żebym udoskonalił|swoje kung fu.
+{43855}{43893}Gdzie jest teraz twoja matka?
+{44069}{44100}Zmarła.
+{44249}{44281}Powinieneś iść.
+{44352}{44426}Styl Chen nigdy|nie będzie ci przekazany.
+{44443}{44494}Nie ma tu dla|ciebie przyszłości.
+{44531}{44606}"Trzy Kwiaty na Koronie"|sczerniały.
+{44608}{44692}Nie zostało ci wiele czasu.
+{44694}{44758}Musisz jak najszybciej|zobaczyć się z lekarzem.
+{44778}{44812}Sir.
+{44814}{44842}Co jest?
+{45445}{45521}Obiecałeś nauczyć mnie tańczyć,|kiedy dałeś mi gramofon.
+{45529}{45579}No chodź.
+{45582}{45631}To nie najlepsza pora.
+{45646}{45672}Powinienem już iść.
+{45733}{45770}Nasza wioska jest mała.
+{45781}{45836}Wielu mieszkańców|nie opuściło jej przez całe życie.
+{45838}{45912}Przekonanie ich do nowych rzeczy,|nie jest łatwą sprawą.
+{45915}{45946}Ale możesz nauczyć najpierw mnie.
+{45948}{45985}Jestem gotowa|nauczyć się czegokolwiek.
+{45987}{46018}Wtedy będę mogła nauczyć ich.
+{46020}{46080}To będzie czasochłonne.
+{46083}{46171}Obiecałem gubernatorowi,|że załatwię to w dziesięć dni.
+{46174}{46207}Co ja mu powiem?
+{46296}{46331}Właściwie...
+{46419}{46527}jeśli będziemy rodziną,|wprowadzenie kolei do wioski Chen
+{46530}{46574}nie będzie takie trudne.
+{46661}{46690}Szczerze mówiąc,
+{46736}{46796}wygląda na to,|że bez ciebie nie dam rady.
+{46899}{46946}Dorastałem w tej wiosce,|ale tylko dlatego,
+{46985}{47049}że jestem dalekim krewnym|o innym nazwisku
+{47051}{47086}nie pozwolono mi|nauczyć się kung fu.
+{47088}{47146}Znosiłem twoich poniewierających|mną braci i myślałem,
+{47148}{47204}że poznawszy nowoczesny fach,|zdobędę szacunek.
+{47206}{47230}Ale co się stało?
+{47287}{47336}Okazuje się,|że nic się nie zmieniło.
+{47534}{47588}Ty praktykujesz|wielki styl Chen,
+{47609}{47653}a ja nadal jestem tylko obcym.
+{47671}{47713}Nie pasuję do ciebie.
+{48273}{48326}Wrzuć tutaj! Dobrze.
+{48371}{48429}{y:b}POCZTA
+{48544}{48601}{Y:i}Zi Jing,|jeśli chodzi o kolej
+{48604}{48651}{y:i}nie powinieneś się spieszyć.
+{48654}{48692}{y:i}A co do naszych zaręczyn...
+{48695}{48753}{y:i}proszę, nie zwlekaj!
+{48788}{48827}{y:i}Chcę się nauczyć kung fu.
+{48970}{49003}Naprawdę nie boisz się śmierci?
+{49005}{49067}Nie. Nie boję się niczego,|jeśli mogę uczyć się kung fu.
+{49069}{49090}Bardzo dobrze.
+{49093}{49124}Spełnię twoje życzenie.
+{49380}{49407}Obserwuj uważnie.
+{49409}{49476}To jest:|"Przeczesywanie Grzywy Dzikiego Konia".
+{49479}{49539}Chcesz się nauczyć?|Dlaczego wciąż leżysz na ziemi?
+{49541}{49565}Wstawaj!
+{49620}{49658}Nie mogłem nadążyć.|Zrób to jeszcze raz!
+{49661}{49673}Zbliż się.
+{50088}{50100}Zbliż się.
+{50733}{50771}{y:b}"Ręce Podwójnego Pchnięcia"
+{50773}{50795}Jeszcze raz.
+{50996}{51048}{y:b}"Skrzyżowany Lotos"
+{51131}{51161}Co do licha?
+{51205}{51277}Od dzisiejszego dnia,|masz zakaz wstępu do wioski.
+{51279}{51354}Jeżeli go złamiesz, będziesz bity|przez młodych i starych.
+{51356}{51396}Zamknąć bramę!
+{51447}{51517}{Y:i}Gubernatorze! Mieszkańcy Chen|są strasznie staroświeccy.
+{51519}{51587}{Y:i}Rozmawiam z nimi od dwóch|tygodni, ale nadal nic.
+{51590}{51623}{y:i}Wystarczy tego.
+{51646}{51718}Twoja podróż kosztowała 30 taeli srebra.
+{51720}{51791}Posiłki 17 taeli.
+{51812}{51906}Inne wydatki 12 taeli.
+{51941}{52015}Jesteś tam by wybudować kolej,|a nie na wakacjach!
+{52018}{52073}Razem to daje 61 taeli srebra.
+{52080}{52147}Wszystkie pieniądze pochodzą od ludu.
+{52157}{52214}Ludzie się śmieją,|że kiedyś byłem kupcem,
+{52217}{52253}a teraz jestem księgowym.
+{52267}{52334}Nawet moje ubranie należy|do poprzedniego gubernatora.
+{52337}{52401}A ty się zastanawiasz,|jak mnie zawiodłeś?
+{52404}{52434}Ekscelencjo!
+{52447}{52478}Budowa kolei napotkała problemy.
+{52480}{52526}Nie tylko pan jest zaniepokojony.
+{52528}{52573}Kompania także na mnie|wywiera nacisk.
+{52575}{52649}Właśnie wysłali nadzorcę,|który ma nas pilnować.
+{52651}{52677}Nadzorcę?
+{52775}{52792}Stać!
+{52905}{52960}Jak się ma wasza Ekscelencja?|Jestem Claire.
+{52962}{53025}Nadzorca Kompanii Wschodnioindyjskiej,|z Tianjin.
+{53027}{53107}Książę Chun jest|moim dobrym przyjacielem.
+{53171}{53207}Książę...
+{53243}{53296}przysłał cię tu by mnie obserwować?
+{53298}{53317}Nie.
+{53320}{53401}Kompanię doszły słuchy,|że pan Fang ma problemy,
+{53404}{53471}więc wysłano mnie do pomocy.
+{53531}{53593}Tam, gdzie zawiódł Fang Zi Jing
+{53598}{53666}ma poradzić sobie obca kobieta?
+{53703}{53734}Ekscelencjo!
+{53749}{53800}Claire nie przybyła|tu z pustymi rękami.
+{53806}{53864}Negocjacje z wioską Chen|zakończyły się fiaskiem
+{53866}{53954}musimy polegać na sile|rewolucji przemysłowej.
+{55319}{55350}{y:i}Lu Chan.
+{55353}{55437}{Y:i}Musisz zrobić w życiu dobrze|tę jedną rzecz.
+{55458}{55523}{Y:i}Naucz się dobrze|kung fu od mistrza.
+{55572}{55614}{y:i}Muszę wejść do wioski!
+{55637}{55707}{Y:b}Wejście do wioski Chen - solucja|Etap pierwszy: Wejście
+{56018}{56066}{y:b}Xiong Xin Xin jako Wujek Qin
+{56068}{56136}{Y:b}"Siódma Noga Ducha"|z serii "Dawno temu w Chinach"
+{56198}{56258}{y:b}Yang Lu Chan vs Wujek Qin
+{56567}{56634}{Y:b}Etap pierwszy: Wygrana Wujka Qin|Dzień drugi
+{56637}{56725}{y:b}Etap drugi: Targ
+{56728}{56813}{y:b}Zhao Di vs Yang Lu Chan
+{57090}{57151}Siostra Yu Niang powiedziała,|że nie możesz wejść.
+{57337}{57365}Idź!
+{57423}{57454}{y:b}Wei Ai Xuan jako Zhao Di.
+{57456}{57515}{Y:b}Cudowne dziecko ze Szkoły|Sportowej Shichahai w Pekinie
+{57548}{57570}Uciekasz?
+{58202}{58233}{y:b}Przez ostatnie 120 lat
+{58236}{58322}{Y:b}87 ludzi przybyło|do wioski Chen by uczyć się kung fu.
+{58324}{58444}{Y:b}63 z nich odeszło|nauczywszy się, że nie uczą obcych.
+{58447}{58567}{Y:b}11 zostało pokonanych przy|wejściu do wioski, 5 na targu.
+{58586}{58636}{Y:b}Etap drugi:|Przegrana Yang Lu Cana
+{58639}{58691}{y:b}Etap trzeci: Brama
+{58749}{58794}{y:b}Xu Hui Hui jako Siostra Mahjong
+{58797}{58845}{Y:b}Trenerka|reprezentacji Włoch w Tai-chi
+{58847}{58902}{y:b}Yang Lu Chan vs Siostra Mahjong.
+{58905}{58960}{y:i}Mahjong!
+{59037}{59101}{Y:b}Pozostali zostali|zatrzymani przy bramie.
+{59104}{59185}{Y:b}Poza mistrzem Dong z 8 palcami,|który został złotą rączką
+{59188}{59236}{y:b}pozostał tylko jeden...
+{59547}{59594}Dostałeś taki łomot|i nadal ci mało?
+{59622}{59663}Styl Chen jest fantastyczny!
+{59684}{59722}Właśnie tak...|chwyt...
+{59725}{59744}pociągnięcie...
+{59746}{59762}hak...
+{59797}{59819}przejście.
+{59840}{59900}To wbija mnie do siódmego nieba!
+{59931}{59998}Po raz pierwszy widzę kogoś|tak zadowolonego po łomocie.
+{60034}{60084}Szybko przyswajasz ruchy.
+{60091}{60111}Tak!
+{60113}{60154}W taki sposób|od dziecka uczę się kung fu.
+{60156}{60210}Pamiętam ruchy każdego.
+{60302}{60335}Naprawdę?
+{60353}{60414}To czemu nie dasz im|posmakować ich własnej broni?
+{60422}{60452}Jakiej broni?
+{60480}{60528}Następnym razem,|gdy będziesz z nimi walczył
+{60530}{60573}zapamiętaj ich ruchy.
+{60576}{60655}Kontratakuj technikami,|których będą używać.
+{60782}{60825}{Y:i}Patrzcie!|Głupek wrócił po więcej!
+{60828}{60896}{Y:i}Ośmielił się wyzwać Brata Tofu.
+{60940}{60981}{y:b}ETAP CZWARTY: CENTRUM
+{61101}{61154}{y:b}Shen Si jako Brat Tofu
+{61156}{61218}{Y:b}Następca Dwunastej Generacji|stylu Chen Tai Chi
+{61300}{61376}Jeśli uda ci się strącić|tofu z mojej dłoni, wygrasz.
+{61707}{61773}Uparciuch z niego!|Nie dba o swoje życie!
+{62417}{62467}{Y:i}Następnym razem,|gdy będziesz z nimi walczył
+{62470}{62513}{Y:i}zapamiętaj ich ruchy.
+{62515}{62554}{Y:i}Jakiegokolwiek ruchu użyją|przeciw tobie,
+{62556}{62595}{Y:i}odwdzięcz się tym samym.
+{62671}{62737}{y:b}"Małpa Proponująca Owoc"
+{62844}{62908}Powinien użyć ruchu|"Małpy Proponującej Owoc".
+{63431}{63502}Powinien użyć|"Leniwego Podwinięcia Szaty".
+{64148}{64181}Kto mnie popchnął?
+{64314}{64345}Twoje tofu...
+{64407}{64426}Przepraszam.
+{64429}{64480}To był wypadek! Rewanż?
+{64568}{64614}Bracie, wygrałeś.
+{64644}{64691}{y:i}Głupkowi się udało.
+{64693}{64727}{y:i}Pokonał Brata Tofu.
+{64729}{64770}{Y:i}Dobry jest.
+{64780}{64816}{Y:i}Bardzo dobrze naśladuje styl.
+{64818}{64875}{Y:i}Każdy ruch jest jak ten prawdziwy.
+{64996}{65021}Wujku Robotniku.
+{65067}{65100}Udało mi się.
+{65163}{65226}Mamo, udało mi się.
+{65269}{65299}Gdzie jest mistrz Chen?
+{65317}{65394}Mistrzu Chen,|chcę nauczyć się kung fu.
+{65432}{65463}Co jest?
+{65619}{65654}Wujku Robotniku.
+{65732}{65770}Wujku Robotniku!
+{65818}{65858}Udało mi się.
+{65979}{66006}Wujku Robotniku.
+{66089}{66121}Mistrzu Chen.
+{66132}{66168}Chcę nauczyć się kung fu.
+{66199}{66239}Gdzie jesteś?
+{66448}{66507}Mamo, wygrałem.
+{66564}{66606}Co jest?
+{66731}{66765}Nic dziwnego, że tyle umie.
+{66767}{66803}Mistrz uczy go za naszymi plecami.
+{66806}{66855}Ten głupiec tylko naśladuje ruchy.
+{66857}{66898}Czy to nie nauka,|jak ukraść nasze kung fu?
+{66900}{66993}- To wbrew zasadom przodków!|- Jestem tylko obserwatorem.
+{66995}{67031}Niby jakie zasady łamię?
+{67463}{67501}Tam jest potwór!
+{68024}{68084}- Zwiększyć moc!|- Tak jest!
+{68316}{68371}{y:i}Dotarliśmy do wioski Chen.
+{68928}{68950}{y:i}Szybciej!
+{69184}{69243}{y:i}Nowe tory kolejowe są gotowe!
+{70515}{70545}Zi Jing.
+{70558}{70616}Z rozkazu Jego Ekscelencji Gubernatora
+{70618}{70666}w celu budowy|Kolei Zhi Li.
+{70668}{70752}{Y:i}Mieszkańcy Chen mają 7 dni|na opuszczenie domów.
+{70755}{70819}{Y:i}Po tym czasie|nasza machina siłą wjedzie
+{70822}{70882}i zniszczy wszystko bez wyjątku.
+{70884}{70931}{y:i}Chce zniszczyć nasze domy?
+{70980}{71009}{y:i}Mięczak!
+{71011}{71052}Nie myśl, że się ciebie boimy
+{71054}{71098}tylko dlatego,|że przywlokłeś tu to coś!
+{72800}{72826}Yu Niang.
+{72828}{72853}Yu Niang.
+{72879}{72908}Zejdź z drogi!
+{72910}{72951}{y:i}Claire, czekaj!
+{73342}{73366}Fang Zi Jing,
+{73378}{73412}to twoja rodzinna wioska.
+{73421}{73463}Jak możesz to robić?
+{73481}{73556}Natychmiast opuść tego...|tego potwora!
+{74575}{74608}Czemu nikt nic nie mówi?
+{74707}{74740}Trzeci Wielki Wuj powiedział,
+{74743}{74793}że oni już nie zajmują się|przyziemnymi sprawami.
+{74796}{74839}Osobą od radzenia sobie|z takimi problemami
+{74841}{74877}jest Wielki Mistrz,
+{74879}{74903}nasz ojciec.
+{74905}{74944}Każdego dnia pojawia się|i znika jak cień.
+{74946}{74973}Mógłby stać teraz za tobą,
+{74975}{75028}ale znika, jak tylko coś|idzie nie tak.
+{75030}{75078}Jak wiesz, jest wolny duchem.
+{75081}{75110}Wolny duchem?
+{75112}{75155}On zwyczajnie ucieka|od swoich zobowiązań.
+{75158}{75197}Yu Niang gdzie idziesz?
+{75221}{75259}Nasz Wielki Mistrz|może nic nie zrobić,
+{75261}{75298}ale ja, tego tak nie zostawię.
+{75992}{76018}{y:i}Ostrożnie!
+{76033}{76059}Szybciej!
+{76124}{76163}{y:b}MATERIAŁY WYBUCHOWE
+{76275}{76356}- Zmniejszyć moc do 340.|{y:i}- Tak jest!
+{76359}{76434}Już im powiedziałam|żeby zeszli na minimum.
+{76512}{76580}Potrafisz czytać w moich myślach.
+{76599}{76654}Znamy się od bardzo dawna,
+{76656}{76699}oczywiście, że cię rozumiem.
+{76702}{76776}Tak naprawdę nie chcesz|zniszczyć tej wioski.
+{76778}{76830}Chcesz tylko|coś sobie udowodnić.
+{76908}{77011}Kiedy zobaczyłam tą dziewczynę,|to w końcu zrozumiałam...
+{77013}{77079}dlaczego nalegałeś na powrót.
+{77126}{77169}To są dwie różne sprawy.
+{77172}{77208}Wróciłem...
+{77210}{77239}Claire.
+{77241}{77313}Wróciłem, by zrobić coś|dobrego z mojej nauki..
+{77315}{77399}Chcę pomóc tym wieśniakom|wyciągając ich z tego stanu.
+{77402}{77437}Nie obchodzi mnie to.
+{77483}{77567}Widzę po jej oczach,|że jej na tobie zależy.
+{77570}{77665}- Powiedziałem, że mam własną misję.|- A co ze mną?
+{77668}{77706}Przebyłam całą drogę do tego miejsca.
+{77709}{77774}Myślisz, że mi zależy|na tej robocie?
+{77862}{77900}Powinnaś dobrze wiedzieć jak się czuję.
+{77903}{77980}Nie chcę myśleć o sprawach osobistych,|póki misja trwa.
+{77982}{78023}Więc, zakończmy najpierw misję.
+{78035}{78084}To jest instrukcja obsługi do Troya.
+{78097}{78135}Machina jest w twoich rękach.
+{78421}{78496}Zagraniczna nowość|jest naprawdę pomysłowa.
+{78505}{78549}To coś, co powinniśmy docenić.
+{78761}{78798}Co do licha?
+{78835}{78865}Co to jest?
+{78876}{78909}To potrafi nawet śpiewać.
+{78941}{78979}Nazywa się fonograf.
+{78982}{79100}Czy mówisz, czy pierdzisz|możesz to nagrać dla potomków.
+{79195}{79269}Przestań! Dużo czasu zajęło mi naprawienie go.
+{79272}{79291}Jeszcze jedno...
+{79293}{79365}Muszę ci powiedzieć,|że się przemęczasz.
+{79368}{79404}Krew pędzi do twojej głowy.
+{79406}{79444}Twój mięsisty róg|stał się czarny.
+{79447}{79485}Nie możesz więcej|trenować kung fu.
+{79488}{79536}Byłeś nieprzytomny|przez cały dzień i noc.
+{79586}{79669}Kiedy spałeś coś strasznego|przytrafiło się wiosce.
+{79682}{79736}Co się stało?
+{79823}{79908}Potwór jedzący domy|przybył do wioski Chen.
+{79926}{80031}Wkrótce pochłonie ją całą.
+{80073}{80183}Kiedy jej zabraknie,|styl Chen przepadnie.
+{80200}{80270}Nie możemy na to pozwolić!|Musimy powstrzymać potwora.
+{80413}{80495}Ten potwór jest tak wytrzymały,
+{80497}{80540}że nawet Chen Chang Xing|nie może go pokonać.
+{80542}{80580}Nawet Mistrz Chen|nie może go pokonać?
+{80584}{80608}Tak.
+{80622}{80652}Więc co zrobimy?
+{80785}{80811}Żelazny potwór.
+{80909}{80939}Obcy żołnierze.
+{81020}{81061}Miejsce gdzie się myją.
+{81183}{81207}Namiot.
+{81274}{81301}To jesteś ty.
+{81315}{81420}Najpierw z łaźni bierzesz strój|roboczy, a potem spacer.
+{81422}{81478}{Y:i}Żołnierze na patrolu|cię nie rozpoznają.
+{81480}{81548}{Y:i}W ten sposób dotrzesz|do podstawy żelaznego potwora.
+{81569}{81661}Gdy dotrzesz na jego szczyt|uważaj na strażnika.
+{81665}{81703}{y:i}Kiedy już cię minie
+{81705}{81770}możesz wejść|bezpośrednio do potwora.
+{81777}{81837}{y:i}Jeśli pomożesz go zniszczyć,
+{81840}{81896}staniesz się|wielkim bohaterem wioski Chen.
+{81907}{82003}Bez problemu nauczą cię wtedy|naszego stylu walki.
+{82024}{82053}To takie łatwe?
+{82055}{82082}{y:i}Łatwe?
+{82084}{82151}{Y:i}Najpierw musimy zastanowić się|jak go zniszczyć.
+{82650}{82706}Claire, mogę wejść?
+{82715}{82737}Wejdź.
+{82923}{82968}Proszę, nie odchodź.
+{83054}{83125}Zrobiłam z siebie głupca.
+{83152}{83195}Ukazałeś to bardzo jasno.
+{83238}{83282}Potrzebuję cię Claire.
+{83306}{83386}Tak bardzo jak tych dwóch|zimnych szyn kolejowych?
+{83473}{83501}Słuchaj...
+{83505}{83553}Zawsze cię kochałem.
+{83682}{83722}A. Powiedział to|pod natchnieniem chwili.
+{83724}{83762}B. Wreszcie ujawnił|długo tłumioną miłość.
+{83764}{83800}C. Powiedziałby|cokolwiek by awansować.
+{83802}{83847}D. Wszystkie z powyższych.
+{83850}{83895}B. Wreszcie ujawnił|długo tłumioną miłość.
+{83898}{83991}Ale twoja rodzina jest taka bogata,|a ja jestem tylko...
+{83994}{84052}- To dla mnie nieważne.|- Ale dla mnie tak.
+{84111}{84145}Od kiedy byłem dzieckiem
+{84171}{84217}nie mogłem się wychylać.
+{84219}{84331}Kiedy ośmielam się to zrobić,|jedyne co widzę to pogarda.
+{84404}{84437}Lecz kiedy cię poznałem
+{84440}{84518}poczułem się tak,|jak nigdy wcześniej.
+{84588}{84628}Zmieniłaś mnie Claire.
+{85475}{85490}Yu Niang.
+{85698}{85728}Yu Niang.
+{85785}{85828}{y:b}Następnego dnia
+{86394}{86423}Przetłumacz tę książkę.
+{86437}{86483}Jesteś naczelnikiem poczty.|Musisz znać angielski.
+{86485}{86593}Jestem urzędnikiem cesarza.|Zginę, jeśli to przetłumaczę.
+{86595}{86674}Jeśli tego nie zrobisz,|zginiesz teraz!
+{86698}{86726}Twój wybór.
+{86825}{86892}{Y:b}TROY NUMER JEDEN|INSTRUKCJA OBSŁUGI
+{86912}{86966}{y:b}UWAGA!
+{87274}{87326}Starałeś się narysować...?
+{87329}{87396}Musisz na to patrzeć|w ten sposób.
+{87492}{87521}Jest jeszcze to...
+{87566}{87586}to...
+{87619}{87643}i to!
+{87669}{87725}I to także!
+{87746}{87776}Rozumiem...
+{87885}{87950}{Y:i}czym jest to,|co narysowałeś?
+{87952}{88000}Na szczęście mogę to zrozumieć.
+{88130}{88175}To, co teraz widzisz
+{88178}{88249}jest wewnętrzną strukturą|żelaznego potwora.
+{88271}{88302}Twoim celem
+{88307}{88362}jest centralne koło|zamachowe na dolnym poziomie.
+{88365}{88428}Ale ponieważ dolny poziom|jest dobrze strzeżony
+{88499}{88553}musimy się tam dostać od góry.
+{88597}{88676}Za drzwiami jest przejście|na najwyższy poziom,
+{88679}{88748}pełne otworów natryskowych.
+{88751}{88774}Gotowy?
+{88794}{88806}Teraz!
+{88964}{89014}Na końcu przejścia
+{89017}{89098}są spiralne schody prowadzące|na dolny poziom.
+{89175}{89235}Maszyna jest|na dolnym poziomie
+{89237}{89283}a obcy żołnierze przed nim.
+{89285}{89351}Musimy dostać się|za nich cicho od tyłu.
+{89527}{89592}Za maszyną znajduje się|inny żołnierz.
+{89595}{89657}Jeśli będziesz miał szczęście|stanie tyłem do ciebie.
+{89659}{89731}Musisz unieszkodliwić go od tyłu.
+{89734}{89770}A co, jeśli nie będę|miał szczęścia?
+{89772}{89824}Wtedy załatwisz go od przodu.
+{89911}{89937}Kiedy się tam dostaniesz...
+{89940}{89978}gratulacje.
+{89981}{90051}Dotarłeś do centralnego|koła zamachowego.
+{90093}{90124}Kiedy już tam będziesz
+{90127}{90199}wyjmij żelazny kij,|który weźmiesz z sobą
+{90201}{90290}{Y:i}i zablokuj przekładnię,|a potwór zostanie zniszczony.
+{90292}{90324}Którą przekładnię?
+{90573}{90635}A co jeśli przekładnia|się nie zablokuje?
+{90637}{90702}{Y:i}Zostaniesz otoczony|przez żołnierzy.
+{90705}{90811}Mógłbyś uciec w czasie|zamieszania, ale wtedy...
+{90853}{90925}jedyne co będziesz mógł|zrobić to mieć nadzieję.
+{90959}{90997}{y:i}Tam jest!
+{91438}{91470}Nie pozwólcie mu uciec!
+{91544}{91567}Łapać go!
+{93377}{93438}- Dlaczego tutaj jesteś?|- Powinnam zapytać o to samo.
+{93520}{93551}Widziałeś ten zamek?
+{93576}{93652}Jeśli go znajdziemy, będziemy|mogli zniszczyć potwora.
+{93775}{93831}Śpisz śmierdzący potworze?
+{93906}{93948}Gdzie może być ten zamek?
+{94050}{94087}Czy to może być to?
+{94225}{94272}Obudź się!
+{94343}{94379}Czy to jest to?
+{94535}{94627}Pośpiesz się i odejdź,|inaczej cię pobiję.
+{94645}{94678}Słyszysz mnie?
+{95314}{95455}Po wybudowaniu torów|przybędę do ciebie.
+{95520}{95592}Jeśli naprawdę zależy ci|na naszej przyszłości
+{95594}{95640}to odejdź ze mną.
+{96170}{96188}Lu Chan.
+{96695}{96734}To musi być to.
+{96757}{96775}Stój!
+{96793}{96822}Nie podchodźcie bliżej.
+{96824}{96866}I tak zniszczę tego potwora.
+{96887}{96918}Jeśli to zrobisz
+{96942}{97025}zostaniemy wrogami.
+{97066}{97129}Więc niech będą wrogowie.
+{97503}{97524}Idź!
+{98292}{98319}Claire!
+{100807}{100850}Maszyna jest zniszczona...
+{100898}{100929}i ja też.
+{100987}{101017}Zi Jing!
+{101142}{101168}Claire!
+{101202}{101226}Claire!
+{101245}{101277}Claire!
+{101522}{101587}Czy to nie lepiej,|że jest zniszczona?
+{101589}{101656}Możemy razem wrócić do Londynu.
+{101721}{101769}Wrócimy razem.
+{102285}{102319}Zniszczę wioskę Chen.
+{102419}{102492}Zniszczę wioskę Chen.
+{102836}{102866}Co się stało?
+{102915}{102941}Z drogi!
+{102999}{103055}Wygląda jak Yu Niang.|Yu Niang.
+{103066}{103105}Yu Niang!|Co się stało Yu Niang?
+{103107}{103155}Yu Niang!
+{103157}{103178}Postaw mnie!
+{103203}{103227}Yu Niang!
+{103229}{103277}- Wszystko dobrze?|- Co się stało?
+{103280}{103397}Ja...|Zniszczyliśmy potwora.
+{103399}{103425}Ja też pomogłam!
+{103500}{103529}Chwała bohaterom!
+{103682}{103718}Przestańcie!
+{103735}{103771}Przybyłem nauczyć się kung fu.
+{103783}{103814}Mogę teraz uczyć się kung fu?
+{103817}{103865}Zrobiłeś to wszystko po to,|by uczyć się kung fu?
+{103867}{103891}Dokładnie.
+{103893}{103948}Wujek Robotnik powiedział,|że jak zostanę bohaterem
+{103951}{103994}będę mógł się uczyć|kung fu od Mistrza Chen.
+{103997}{104027}Wujek Robotnik?
+{104061}{104093}Mówisz o mnie?
+{104277}{104304}Co do licha?!
+{104327}{104349}Ojcze!
+{104366}{104392}Ojcze?
+{104395}{104450}- Ty jesteś Chen Chang Xing?|- Nie inaczej.
+{104452}{104572}Chen Chang Xing|Wielki Mistrz stylu Chen.
+{104582}{104620}{Y:b}Tony Leung Ka Fai|jako Chen Chang Xing.
+{104622}{104643}Okłamałeś mnie.
+{104677}{104759}Nie. Nigdy nie mówiłeś,|że jesteś Chen Chang Xing.
+{104761}{104833}Nieważne.|Mogę się teraz uczyć kung fu?
+{104836}{104871}Nie.
+{104888}{104970}Wielka katastrofa|spotka wioskę Chen.
+{104972}{105035}Jaka katastrofa?|Potwór został zniszczony!
+{105037}{105114}Powodem, dla którego wysłałem|obcego do sabotażu maszyny
+{105116}{105202}było upewnienie się, że wioska|się w to nie zaangażuje.
+{105205}{105265}Nigdy nie przypuszczałem,|że możesz się przyłączyć,
+{105267}{105313}a nawet kogoś zabić.
+{105318}{105369}Kogoś zabić?|Co masz na myśli?
+{105413}{105500}Kiedy żelazny potwór wybuchł|obca kobieta została zabita.
+{105541}{105594}Nie można było tego uniknąć.
+{105622}{105678}Żołnierze wkrótce|przybędą do naszej wioski.
+{105718}{105775}Przygotujcie się na bitwę!
+{106106}{106154}{Y:i}Gdy żołnierze|wejdą do naszej wioski,
+{106157}{106202}{Y:i}musimy traktować ich|z należnym respektem.
+{106226}{106305}{y:i}Naszym celem jest ochrona domostw,
+{106308}{106375}{Y:i}musimy zrobić to jak najlepiej,|by nie spowodować strat.
+{106504}{106555}{Y:i}Obrażenia wewnętrzne|Yang Lu Chana są rozległe.
+{106557}{106600}{y:i}Nie może już walczyć.
+{106612}{106672}{Y:i}Ludzie z miasta,|podejmijcie swoje pozycje,
+{106677}{106722}{y:i}słuchajcie moich rozkazów!
+{106795}{106847}{y:i}Zrobimy to w czterech etapach.
+{106948}{107037}{Y:i}Zapamiętajcie,|że najlepiej rozbroić wroga
+{107039}{107077}{y:i}lub go uwięzić.
+{107080}{107154}{y:i}Zranienie przeciwnika, jest ostatecznością.
+{107403}{107433}{y:b}Formuła chemiczna: As203.
+{107435}{107489}{Y:b}Efekt:|Zawroty głowy po wchłonięciu
+{107493}{107553}{Y:b}Mogą wystąpić|halucynacje i dezorientacja
+{107574}{107619}{Y:b}Kierunek wiatru:|południowo-wschodni.
+{107622}{107673}{y:b}Szybkość wiatru: 200M PM.
+{107849}{107950}{Y:b}Fortel 1:|Niszczenie prawdy oszustwem
+{108725}{108769}Dlaczego tak nagle|zrobiło się mgliście?
+{108825}{108935}{Y:b}Fortel 2:|Opanowanie Yang przez Yin
+{111140}{111196}Na co czekacie?|Zastrzelić ich!
+{111296}{111352}{Y:i}Strzelają!|Strzelają!
+{111524}{111558}{y:i}Stary Liu został postrzelony!
+{111732}{111753}Przeładować!
+{111886}{111931}{Y:i}Mieszkańcy wioski Chen, słuchajcie!
+{111934}{111991}{Y:i}Sabotaż kolei jest zbrodnią|przeciwko państwu.
+{111993}{112068}Natychmiast wydajcie nam|Chen Yu Niang i Yang Lu Chana
+{112070}{112147}{Y:i}oraz inicjatora tego,|Chen Chang Xinga.
+{112149}{112209}W przeciwnym wypadku,
+{112212}{112300}wszyscy zostaniecie uznani|{y:i}za współwinnych zbrodni.
+{112303}{112360}Wykorzystasz zachodnią broń|przeciwko swoim rodakom?
+{112363}{112408}{Y:b}Fortel 3:|Opanowanie surowości, delikatnością
+{112411}{112439}Fang Zi Jing!
+{112442}{112468}Czy posiadasz sumienie?
+{112471}{112509}To wszystko twoja wina!
+{112511}{112540}Aresztować ich!
+{112758}{112777}Już!
+{113094}{113136}Yu Niang uważaj!
+{113473}{113543}Jak ten obcy mógł poznać|nasz styl Chen?
+{113763}{113785}Yu Niang!
+{113907}{113939}Głupku!
+{114000}{114036}Utworzyć formację!
+{114079}{114103}Lu Chan!
+{114113}{114136}Ognia!
+{114353}{114378}Schyl się!
+{114458}{114535}{Y:b}Finałowy fortel:|Człowiek i niebo stają się jednym
+{114537}{114570}Schwytać ich!
+{115139}{115170}{y:i}Załadować broń.
+{116501}{116568}{Y:i}Niech wszyscy przepędzą stąd|imperialnych żołnierzy!
+{116571}{116673}{Y:i}Wszyscy!|Przepędzić stąd tych żołnierzy!
+{116678}{116753}{y:i}Wynoście się z wioski Chen!
+{116981}{117019}To nie byłem ja...
+{117021}{117105}Nie rozkazywałem im strzelać!
+{117729}{117743}Lu Chan!
+{118208}{118299}Jego nazwisko to Yang.|Nie jest naszą rodziną.
+{118302}{118354}Jak może znać|nasz styl Chen?
+{118357}{118402}Odpowiem na to pytanie.
+{118405}{118474}Ten chłopiec przez wiele dni|wałęsał się po naszej wiosce
+{118477}{118525}domagając się nauki kung fu.
+{118527}{118570}Nasi ludzie próbowali odradzić mu to.
+{118573}{118628}Uciekli się do wypędzenia go,
+{118630}{118700}ale chłopiec naśladował ich ruchy
+{118702}{118764}i w ten sposób doszedł|do poznania naszego stylu Chen,
+{118767}{118843}poznając prawie jego połowę.
+{118846}{118893}W takim razie...|ukradł nasze kung fu!
+{119090}{119143}Rzeczywiście ukradł|nasze kung fu.
+{119186}{119263}Lu Chan nauczył się|go na oczach wszystkich.
+{119265}{119292}Jak to może być kradzieżą?
+{119294}{119321}{y:i}To nie jest kradzież!
+{119323}{119347}{y:i}Kradzież publiczna?
+{119349}{119392}{y:i}To nie jest kradzież kung fu!
+{119395}{119409}Cisza!
+{119510}{119575}Chociaż odbyło się|to przy ludziach,
+{119577}{119618}to jednak zostało|zrobione bez pozwolenia.
+{119620}{119674}A branie bez pozwolenia|oznacza kradzież.
+{119705}{119782}Ten głupek zaryzykował życie,|by ocalić naszą wioskę.
+{119784}{119842}Czy to nie anuluje|jego przestępstwa?
+{119847}{119921}Powinien zostać|i nagrodzony i ukarany.
+{119923}{119987}- Gdzie wasze człowieczeństwo?|- Jak możesz tak mówić?
+{120019}{120048}To wszystko twoja wina!
+{120050}{120120}Gdybyś nie dał mu w tajemnicy|wskazówek, nie wygrałby.
+{120122}{120170}Co? Ty sam go uczyłeś!
+{120245}{120309}Ten chłopiec ma|"Trzy Kwiaty na Koronie".
+{120312}{120366}Jest niespotykanie|cudownym dzieckiem.
+{120403}{120483}Z dobroci swego serca|próbowałem uratować jego życie,
+{120547}{120595}ale pamiętając o regułach naszego dziedzictwa
+{120597}{120647}nigdy nie nauczyłem go|pojedynczego ruchu.
+{120705}{120809}"Trzy Kwiaty" sczerniały.
+{120834}{120870}Może umrzeć w każdej chwili.
+{120904}{120941}Naprawdę?
+{121017}{121102}Nasze pokolenie zawsze|przestrzegało twoich reguł
+{121187}{121264}ale błagam cię, byś wziął|jego niedolę pod uwagę.
+{121266}{121328}Nie każ go niszcząc jego|wewnętrzne kanały energii.
+{121343}{121390}Pozwól mu przeżyć|ostatnie dni w spokoju.
+{121429}{121448}Nie.
+{121458}{121552}Zgodnie z regułą, złodzieja|ukarzemy przez okaleczenie.
+{121566}{121635}Mogę wiedzieć jak jego|kung fu zostanie okaleczone?
+{121638}{121695}Całe życie uczę się sztuk walki,
+{121705}{121772}ale nigdy nie nauczyłem się,|jak to zrobić.
+{121774}{121815}A ty wiesz jak?
+{121901}{121969}Musimy wyrwać jego ścięgna|i połamać mu kości.
+{121988}{122040}Jeśli wciąż będzie mógł|walczyć bez ścięgien nóg,
+{122043}{122091}będziesz musiał|wyrwać mu je także z rąk?
+{122093}{122175}Jeśli to nie zadziała, mamy|mu też połamać większe kości?
+{122177}{122220}Tak robią rzeźnicy.
+{122223}{122255}Odmawiam zrobienia tego.
+{122326}{122369}Czy chcesz, czy nie|musisz to zrobić.
+{122371}{122435}You Zhi, przynieś miecz przodków.
+{122501}{122542}Ojcze wymyśl coś!
+{122594}{122645}Tylko jedna osoba|może go teraz ocalić.
+{122661}{122684}Kto?
+{122769}{122789}Ty.
+{124591}{124612}Zaczekaj!
+{124663}{124712}Czy tu nie chodzi|tylko o nazwisko rodowe?
+{124721}{124805}Jeśli mnie poślubi, otrzyma nazwisko,|i nie będzie obcym.
+{124807}{124855}Nie będzie już kwestii|kradzieży kung fu.
+{124946}{125010}Ojcze masz jakieś zastrzeżenia?
+{125112}{125159}Zawsze robisz to, co chcesz.
+{125172}{125212}Co zatem mogę powiedzieć?
+{125258}{125324}Ojciec nie ma zastrzeżeń.|Zatem zadecydowano.
+{126119}{126226}Piękne ponad miarę!
+{126287}{126440}Dzięki tobie, wspaniałość|chińskich sztuk walki
+{126442}{126526}przewyższa zachodnią technologię zbrojeniową.
+{126534}{126581}Niewielka wspólnota,|jaką jest wioska Chen
+{126584}{126634}pokonała twoich ludzi i maszyny.
+{126637}{126689}Zginął nawet zagraniczny konsultant.
+{126694}{126784}Jak tylko książę się|dowie, zleci śledztwo.
+{126800}{126856}Dopilnuję,|byś jako pierwszy poniósł winę.
+{126908}{126963}Spójrz na siebie!
+{127054}{127114}Co jeszcze ma w rękawie|Kompania Wschodnioindyjska?
+{127116}{127161}Mów!
+{127692}{127733}Siostro Yu Niang!
+{127737}{127790}Czemu wychodzisz za tego głupka?
+{127816}{127863}Nie mów głupot.
+{129081}{129165}Przepraszam, ale wioska Chen|jest dziś zamknięta.
+{129167}{129215}Przeżywamy radosny czas.
+{129217}{129285}Z rozkazu Wielkiego Mistrza,|obcy mają zakaz wejścia.
+{129287}{129316}Przykro mi.
+{129342}{129387}A co jeśli będę nalegał na wejście?
+{130071}{130130}Przyjacielu|posłuchaj mnie!
+{130141}{130174}Jeśli chcesz sprawiać kłopoty,
+{130176}{130221}to wybrałeś niewłaściwe miejsce!
+{130304}{130423}Przyjrzyj się lepiej Wujku Qin.
+{130486}{130543}Czy ja wyglądam ci na kłopoty?
+{131435}{131503}{y:b}KONIEC
+{131704}{131792}{y:b}WŁAŚCIWIE...
+{131804}{131847}{y:b}JESZCZE NIE KONIEC...
+{131920}{131975}{y:i}Widzę brzeg.
+{131977}{132022}{y:i}Dotarliśmy do Tianjin.
+{132035}{132115}{Y:i}Zająć pozycje!|Bądźcie w gotowości!
+{132241}{132289}Czy potrzebujemy tego|dla chińskiego wojska?
+{132337}{132381}Nie jest dla wojska.
+{132437}{132509}- Słyszałeś kiedyś o kung fu?|- Kung fu?
+{132599}{132655}Zanosi się na deszcz.
+{132783}{132884}{y:i}Szybciej! Zakryć działa!
+{132998}{133058}{Y:i}Nie pozwólcie, żeby|armata Kruppa zamokła.
+{133073}{133132}{Y:i}Zaciągnąć plandekę!
+{133235}{133335}Tekst polski:|{y:b}Mr. J0jk0 & Lukarson
+{133354}{133454}Grupa:|{y:b}///NAPIerce-SQUAD\\\
+{133670}{133764}www.NapiProjekt.pl - nowa jakość napisów.|Napisy zostały specjalnie dopasowane do Twojej wersji filmu.
